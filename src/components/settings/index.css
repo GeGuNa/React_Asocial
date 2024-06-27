@@ -1,0 +1,103 @@
+.ftrwithborder {
+    background-color: #FFFFFF;
+    padding: 20px;
+    width:100%;
+    display:block;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+
+.pHPD1FRM1 {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.pHPD1FRM2 {
+    display: block;
+    margin-bottom: 4px;
+    color: #6b7c8f;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+
+.b3utton {
+    color: #ffffff;
+    background: #447bba;
+    border: 0;
+    border-radius: 4px;
+    font-weight: 500;
+    padding: 10px 12px;
+    cursor: pointer;
+}
+
+.mb4, .my4 {
+    margin-bottom: 1.5rem !important;
+}
+
+
+.label, .pHPD1FRM2 {
+    display: block;
+    margin-bottom: 4px;
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.inpText {
+    font-size: 14px;
+    /* padding: 10px 10px; */
+    height: 45px;
+    padding: 10px 10px;
+    outline: 0;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    max-width: 100%;
+    width: 100%;
+    border: 0;
+    color: #6b7c8f;
+    font-weight: 500;
+    background-color: rgba(243, 244, 246, 1);
+
+}
+
+.mnrgo12300 {
+margin-bottom:0 !important;
+}
+
+
+
+.DesignForLeftsideWhilenotStand {
+    background: #fff;
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.DesignForLeftsideWhilenotStand > div:not(.set):hover {
+    background: #eeecec;
+    color: #000;
+    border-radius: 10px;
+}
+
+.DesignForLeftsideWhilenotStand > div:is(.set) {
+    background: #e4e4e463;
+    color: #000;
+    border-radius: 10px;
+}
+
+#pfor2Setsz53 > div {
+   cursor: pointer;
+}
+
+
+.inpModel {
+width:100% !important;
+}
+
+#frmpaddings > div {
+margin-bottom:15px;
+}

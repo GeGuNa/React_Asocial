@@ -1,0 +1,230 @@
+.pBlueWw231z {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.productSctions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+
+
+.productSctions .center1s {
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+
+
+.c_usr_img1frshops {
+    width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.PTB2 {
+     padding-top: 10px; 
+     padding-bottom: 10px;
+}
+
+
+.MPro2pD {
+    padding-top: 5px;
+    color: #00000091;
+    font-size: 1rem;
+}
+
+
+
+.prd_page {
+background:#fff;
+width:100%;
+display:block;
+padding:20px;
+border-radius:16px;
+}
+
+
+.pr_pgimg2 {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.bforprs {
+
+    margin-top: 10px;
+
+}
+
+
+.bforprs button {
+width:100%;
+}
+
+.pst1_st41 {
+display:block;
+padding-top:15px;
+padding-bottom:15px;
+}
+
+
+.fl_spct1 {
+display:flex;
+justify-content:space-between;
+}
+
+
+
+.forAlmostWhite {
+    color: #00000091;
+    font-size: 1rem;
+}
+
+
+.Margin15 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.psnapCat1 {
+display:flex;
+gap:5px;
+flex-direction:row;
+}
+
+
+.psnapCat13 {
+display:flex;
+flex-direction:row;
+gap:6px;
+}
+
+
+.rowFL1qwe {
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+    margin-top: 10px;
+
+}
+
+.pp_img_s1 {
+width:20px;
+height:20px;
+object-fit:cover;
+}
+
+
+.pc_cnt1al1{ align-items: center; }
+.pc_cnt1al131{ align-self: center; }
+
+
+
+.pp_img3_4sz1 {
+width:80px;
+height:80px;
+object-fit:cover;
+border-radius:10px;
+}
+
+.ppflex_2  {
+display:flex;
+gap:10px;
+}
+
+
+.tT_z1 {
+margin-top: 15px;background: #fff;padding: 20px 20px 19px 20px;border-radius: 10px;
+}
+
+
+.fTeFLink2 {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.styleeq2_zq {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+
+
+@media (max-width:1000px) {
+
+#nv41  {
+width:100%;
+}
+
+}
+
+
+.mangle21 {
+background:#fff;
+padding:20px;
+border-radius: 4px;
+}
+
+
+
+.mangle21T {
+    margin-top: 24px;
+}
+
+
+.widgeth5 {
+    color: #213366;
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+
+
+.widget53 {
+display:flex;
+gap:15px;
+width:100%;
+}
+
+.widget5341z {
+display:flex;
+row-gap:5px;
+flex-direction:column;
+}
+
+.wudg17px {
+font-size: 17px;
+font-weight: 600;
+}
+
+.widgetprice {
+    font-weight: 600 !important;
+    margin-top: 5px;
+}
+
+
+.clrforstars {
+color: var(--clr-g1)  !important;
+}
+
+
+.widget53 .cimg2 {
+width:98px;
+height:92px;
+object-fit:cover;
+border-radius:10px;
+}
+
+.mr_angl_top15{ 
+    margin-top: 20px;
+}
+
+.angle_dates {
+color: #555;
+font-size: .875rem;
+}
+

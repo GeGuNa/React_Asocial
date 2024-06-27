@@ -1,0 +1,39 @@
+@media (max-width: 900px) {
+
+/*    .l_meshd41 {
+        display: block !important;
+    }
+   .l_meshd41 {
+      widtH:100% !important;
+   }
+*/
+}
+
+.nmessroundinghdgp {
+display:flex;
+flex-direction:column;
+justify-content:end;
+}
+
+.nmessrounding {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 18px;
+    margin-top: 6px;
+    border-radius: 50%;
+    background: rgb(68, 123, 186);
+    color: #FFFFFF;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+}
+

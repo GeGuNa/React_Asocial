@@ -1,0 +1,99 @@
+.mmebrMAin {
+background:#fff;
+padding:10px;
+display:flex;
+width:100%;
+border-radius:10px;
+justify-content:space-between;
+margin-bottom: 15px;
+}
+
+
+.mmebrMAin >.r_ow1 {
+gap:10px;
+display:flex;
+align-items: center;
+}
+
+
+.mmebrMAin >.r_ow1 img {
+width:50px;
+height:50px;
+object-fit:cover;
+border-radius:50%;
+}
+
+
+
+.mmebrMAin .rfl {
+align-self:center;
+}
+
+.mmebrMAin > * button {
+padding:2px 8px !important;
+}
+
+.elh {
+    padding-left: 3px;
+    padding-bottom: 5px;
+    font-weight: 600;
+}
+
+
+.member_fl {
+display: flex;
+gap: 15px;
+width: 100%;
+background: #fff;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 15px;
+align-items: center;
+}
+
+.member_fl > a.a_active {
+    background: rgb(68, 123, 186);
+    color: #fff !important;
+    border-radius: 5px;
+    padding: 6px 10px;
+    text-decoration: none;
+}
+
+
+
+.member_fl3 {
+display: flex;
+flex-direction:column;
+gap: 15px;
+width: 100%;
+background: #fff;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+
+.member_fl3 .diz2 {
+display: flex;
+gap: 15px;
+}
+
+
+
+.member_fl3 textarea {
+height:41px;
+}
+
+
+@media (max-width:407px) {
+.member_fl3 {
+width:100% !important;
+flex-direction:column;
+}
+
+
+.member_fl3 .diz2 {
+flex-direction:column !important;
+}
+
+
+}

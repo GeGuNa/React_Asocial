@@ -1,0 +1,63 @@
+
+.Iname {
+    font-size: 16px;
+    margin: 5px 0 3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: "OpenSansRegular";
+}
+
+
+.Category2 {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 2px;
+    box-shadow: 0 0 6px #ececec;
+    margin: 6px 2px;
+    padding: 24px 12px;
+    text-align: center;
+    font-family: "OpenSansRegular";
+}
+
+.a {
+text-decoration:none !important;
+}
+
+.iuutyp1 {
+height: 38px;
+border-radius: 20px !important;
+padding-right: 20px !important;
+padding-left: 40px !important;
+}
+
+
+.boxsearchq {
+    position: relative;
+    margin-left: 10px;
+    display: flex;
+    width: 100%;
+}
+
+.boxsearchqeps {
+    position: absolute;
+    left: 13px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.boxsearchqeps_s {
+    color: #cecece;
+}
+
+
+.iuutyp1::placeholder {
+  color: #cecece;
+  opacity: 1; /* Firefox */
+}
+
+.iuutyp1::-ms-input-placeholder { /* Edge 12 -18 */
+  color: #cecece;
+}

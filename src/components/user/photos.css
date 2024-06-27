@@ -1,0 +1,39 @@
+.c_usr_img1 {
+width:100%;
+height:190px;
+border-radius: 10px 10px 0px 0px;
+object-fit:cover;
+}
+
+
+.c_usr_qw1 {
+background: #fff;
+border-radius: 10px;
+position: relative;
+}
+
+
+.Photo_listofusr1 {
+width: 100%;
+display: grid;
+grid-gap: 10px;
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+justify-content: center;
+overflow:hidden;
+}
+
+
+.pp_h21 {
+padding:10px 0;
+}
+
+
+.pp_usr1z > span {
+color:#fff;
+}
+
+.pp_usr1z {
+position:absolute;
+top:0;
+right:10px;
+}

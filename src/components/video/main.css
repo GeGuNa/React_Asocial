@@ -1,0 +1,123 @@
+.angle_video_2 {
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    background-color: #ececec !important;
+    overflow: hidden;
+    align-items: center;
+    margin-bottom: 15px;
+    justify-content:space-between;
+}
+
+
+
+.angle_video_2 > div:not(.ver1) {
+      padding: 3px 16px;
+      border-radius: 5px;
+      color: #ffffff;
+      font-weight: 500 !important;
+      background-color: var(--clr-g1);
+      text-align: center;
+}
+
+.vidspn2 {
+font-size:16px !important;
+}
+
+
+
+
+
+@media (max-width:900px) {
+
+   .angle_video_2 {
+      flex-direction:column !important; 
+      gap: 15px !important;
+   }
+
+   .angle_video_2 > div {
+      width:100%;
+   }
+
+
+   .angle_video_2 > div.ver1 {
+      flex-direction:column !important; 
+      gap: 10px !important;
+   }
+
+   .angle_video_2 > div.ver1 div {
+      width:100% !important; 
+   }
+
+
+}
+
+
+
+
+.angle_video_2 > .ver1 {
+    display: flex;
+    gap: 15px;
+    overflow: hidden;
+    align-items: center;
+}
+
+
+
+.angle_video_2 > .ver1 div {
+border-radius: 5px;
+color: #ffffff;
+font-weight: 500 !important;
+background-color: var(--clr-g1);
+width: auto;
+padding-left: 10px;
+padding-right: 10px;
+height: 30px;
+line-height: 30px;
+display: flex;
+align-items: center;
+gap: 5px;
+justify-content: center;
+}
+
+.angle_video_2 > .ver1 div span {
+font-size:17px !important;
+}
+
+
+.cpAnlge_Vidlnk {
+display:block;
+padding:15px;
+background:#fff;
+border-radius:10px;
+}
+
+
+.cpANglevidt1 { margin-top:15px; }
+.cpANglevidt12 { margin-bottom:15px; }
+
+
+.Angle_vid_mayknow {
+   display:block;
+   width:100%;
+}
+
+.Angle_vid_mayknow > div {
+display:flex;
+flex-direction:column;
+width:100%;
+    padding: 15px 15px 0px 15px;
+}
+
+
+
+.Angle_vid_mayknow > div > .row3z {
+display:flex;
+gap:10px;
+}
+
+.angle_vidmimg2 {
+width: 70px;
+height: 84px;
+object-fit: cover;
+}

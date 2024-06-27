@@ -1,0 +1,334 @@
+
+/* blog post view */
+
+
+.cPostName  {
+    font-size: 1.5rem;
+    font-weight:700;
+}
+
+
+
+.cPostDesc1 {
+display:flex;
+width:100%;
+flex-direction:column;
+}
+
+.cPostDesc1 > * {
+display:flex;
+width:100%;
+flex:0 0 auto;
+}
+
+
+.cPostDQWE {
+margin-top:15px;
+background:#c5c5c5;
+padding:10px;
+}
+
+.cPostDQWE_img {
+width:80px;
+border-radius:50%;
+}
+
+
+.cPOQWez_L{
+padding-left:15px;
+//padding-top:15px;
+}
+
+
+
+.BLog_Cmnt {
+display:flex;
+width:100%;
+background:#ffffff;
+margin-top:15px;
+margin-bottom:15px;
+flex-wrap: wrap;
+border-radius:15px 15px 0 0;
+}
+
+
+.BLog_Cmnt > * {
+width:100%;
+display:flex;
+flex:0 0 auto;
+}
+
+.czBlgPDNG {
+padding:10px;
+}
+
+.czBlgPDNG > *:last-child {
+padding-left:10px;
+}
+
+.cqweBtmp {
+border-bottom:1px solid #c4c4c4;
+}
+
+.CmntPSQE {
+font-weight:500;
+font-size: 1.25rem;
+padding:8px;
+}
+
+
+.p_img_blog1 {
+width:60px;
+height:60px;
+object-fit:cover;
+}
+
+
+.link__secondary {
+    color: #717171;
+    font-size: .857rem;
+}
+
+.seeingallpblog {
+    text-align: center;
+    color: #fff !important;
+    margin: auto;
+    padding: 10px;
+    background: var(--clr-g1);
+    width: 100%;
+    display: block;
+}
+
+#blogdistanceBetween > div {
+padding-bottom:5px;
+}
+
+.pfiseblo1fsz1g1 {
+font-size: 18px !important;
+}
+
+.bpblock11 {
+    display:block;
+    width: 100%;
+}
+
+.bpblock11 .seeingallpblog {
+    text-align: center;
+    color: #fff !important;
+    margin: auto;
+    padding: 12px;
+    background: tomato;
+    width: 100%;
+    display: block;
+}
+
+
+
+.Psqwe_id_lk {
+padding-right:10px;
+}
+
+.cqw_123zzzblg2 {
+margin:10px 0 10px 0;
+}
+
+
+.roundedWidgets {
+background: #fff;
+border-radius: 10px;
+display:block;
+margin-bottom: 30px;
+padding: 10px;
+}
+
+.pfoh1_51 {
+width:50px;
+height:50px;
+border-radius:50%;
+object-fit:cover;
+}
+
+
+.fppfoh1_51 {
+display:flex;
+gap:15px;
+padding-top: 5px;
+}
+
+
+.pfq_alfcnt1 {
+    align-self: center;
+}
+
+
+.plan123051 {
+padding: 10px 0px;
+}
+
+
+.seeinga3llpblog31 {
+    text-align: center;
+    color: #fff !important;
+    margin: auto;
+    padding: 6px;
+    background: var(--clr-g1);
+    width: 100%;
+    display: block;
+    border-radius:10px;
+}
+
+
+.pp_411z {
+padding: 6px 0px;
+}
+
+
+.rnm5g352 {
+    text-align: center;
+    color: #fff !important; 
+    margin: auto;
+    padding: 10px;
+    background: tomato;
+    width: 100%;
+    display: block;
+}
+
+
+
+
+.cardbody {
+    font-size: 1.3rem;
+    padding: 20px 15px 15px 16px;
+    margin-bottom: 0 !important;
+}
+
+.card1 {
+   display:flex;
+   flex-direction:column;
+   width:100%;
+   overflow:hidden;
+   padding: 10px;
+}
+.brq_topzz3123 {
+    color:#333 !important;
+}
+
+
+
+.mrqk_qrp115 {
+margin-bottom:15px;
+}
+
+.brq_topzz123 {
+    border-top: 1px solid rgba(0, 0, 0, .1);
+}
+
+
+
+.rprflm3nq1 {
+    background: #fff;
+    width: 100%;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.rprflm3nq13z {
+    display:flex;
+    flex-wrap:nowrap;
+    width:100%;
+    overflow: hidden;
+}
+
+
+.ww_1001 {
+width:100% !important;
+border-radius:0!important;
+padding: 10px 12px !important;
+margin-bottom:0!important;
+}
+
+.bnt_fr_blog1 {
+    border-radius: 0px 10px 10px 0px !important;
+}
+
+.ww_1081 {
+width:80% !important;
+}
+
+
+.blm_cmnt1pic2 {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.cm_ntfr1 {
+    padding: 1rem 1rem 0 1rem;
+    gap: 15px;
+}
+
+
+.pp_nq1051po2z {
+    padding-top: 10px;
+}
+
+
+.pb_rq123zbakc23 {
+padding:13px;
+border-radius:20px;
+background-color: rgb(243, 244, 246);
+}
+
+
+.pcnalingle1 {
+    padding-left: 13px;
+}
+
+
+.angle_bblog2 {
+display:block;
+width:100%;
+}
+
+
+.angle_bblog2Widetimg {
+width:50px;
+height:50px;
+object-fit:cover;
+border-radius:50%;
+}
+
+.angle_bblog2Widet {
+display: block;
+padding: 15px;
+background: #fff;
+margin-bottom: 20px;
+border-radius: 10px;
+}
+
+.angle_flblogfl{ 
+display: flex;
+gap:10px;
+padding-top: 15px;
+padding-bottom: 15px;
+align-items: center;
+}
+
+
+.annge_whcl {
+    color: #8f8f8f;
+    font-size: 0.8125rem;
+}
+
+.angle_blgPostName {
+    font-weight: 600;
+    text-decoration: none !important;
+}
+
+.anlge_MBlog_img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    /* height: auto; */
+}

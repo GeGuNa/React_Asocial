@@ -1,0 +1,179 @@
+.cdinl_zb {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+} 
+  
+  
+ .GR_CRT_BT {
+ padding:10px;
+ background:#2a5885;
+ color:#fff;
+ border-radius:15px;
+ } 
+  
+  
+  .CQWEz_22z {
+  
+   width:100%;
+  overflow:hidden;
+  padding:10px;
+  background:#fff;
+  margin-bottom:10px; 
+  border-radius:15px;
+  
+  }
+  
+  .Head_Rec_Vis {
+  width:100%;
+  overflow:hidden;
+  //padding:10px;
+  display:inline-block;
+  background:#fff;
+  //margin-bottom:10px;
+  }
+
+.Head_Rec_Vis div {
+padding-left:10px;
+float:left;
+}
+
+.GRFvSTTl {
+padding:10px;
+font-weight:600!important;
+}
+
+.CGRPimg {
+width:80px;
+height:80px;
+border-radius:50%;
+}
+
+
+
+  .Head_Rec_Viszzzz {
+  width:100%;
+  overflow:hidden;
+  display:flex;
+  background:#fff;
+  margin:auto;
+  }
+
+.Head_Rec_Viszzzz div {
+    display: flex;
+    /* flex-basis: 100%; */
+    flex: 1;
+    flex-direction: column;
+    padding-left: 4px;
+}
+
+.flc_xx12_zdr { 
+flex-direction:column;
+}
+
+.crl_lkggrp {
+color:#412c2d;
+}
+
+
+.cmn_rq1131 {
+display:flex;
+gap:15px;
+width:100%;
+overflow:hidden;
+}
+
+
+.cmn_rq1131 .s3 {
+max-width: 80px;
+white-space: wrap;
+overflow-wrap: break-word;
+font-size: 0.9rem;
+}
+
+
+.pw_pho231 {
+width:70px;
+border-radius:50px;
+height:70px;
+object-fit:cover;
+}
+
+.pwr_phro231 {
+width:70px;
+border-radius:50px;
+height:70px;
+object-fit:cover;
+}
+
+
+.pwr_phro431 {
+width:80px;
+border-radius:50px;
+height:80px;
+object-fit:cover;
+}
+
+.flc_xx12_zdre2z {
+display:flex;
+flex-direction:column;
+row-gap:10px;
+}
+
+
+.flc_xx12_zdre2z a {
+color: #000 !important;
+text-decoration:none !important;
+}
+
+
+.cz_mnt {
+    background: #fff;
+    width: 100%;
+    display: grid;
+    border-radius: 10px;
+}
+
+
+.v_col31 {
+    font-weight: 600;
+    color: #2a5885 !important;
+    text-decoration: unset !important;
+}
+
+.ww_f1z {
+ width:100% !important; 
+}
+
+
+.aa_whl123z {
+color: #747474 !important;
+}
+
+
+
+
+.cmnt354 {
+    background: #fff;
+    width: 100%;
+    display: grid;
+    border-radius: 10px;
+    grid-template-columns: auto;
+    margin-bottom: 15px;
+}
+
+
+.c_zlfqffl1 { 
+display:flex;
+justify-content:space-between;
+width:100%;
+margin-bottom: 20px;
+}
+
+
+.c_zlrqzfqf4fl1 { 
+display:flex;
+gap:15px;
+align-items: center;
+}
+
